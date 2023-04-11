@@ -3,7 +3,6 @@
  
 <h3>👧PROFILE</h3>
 <h4>✉️ Contact : pgy6190@naver.com</h4>
-<h4>📁 Notion : https://candle-bonobo-7d4.notion.site/94e48266226d4f17806c3e0b373167bf </h4>
     
 </br>
   
