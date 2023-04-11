@@ -15,6 +15,14 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" style="width:auto; height:20px;"/>
 <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"style="width:auto; height:20px;"/>
 <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white"style="width:auto; height:20px;"/>
+<img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=AdobeIllustrator&logoColor=white" style="width:auto; height:20px;"/>
+</br></br></br></br>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gaO-Oa&count_private=true&hide=contribs,prs&show_icons=true)
+](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaO-Oa&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <br>
 <br>
