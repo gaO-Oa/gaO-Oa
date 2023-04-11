@@ -1,12 +1,13 @@
 
 <div align="center">
-  
-<h4>Contact : pgy6190@naver.com</h4>
-<h4>Notion : https://candle-bonobo-7d4.notion.site/94e48266226d4f17806c3e0b373167bf </h4>
+ 
+<h3>👧PROFILE</h3>
+<h4>✉️ Contact : pgy6190@naver.com</h4>
+<h4>📁 Notion : https://candle-bonobo-7d4.notion.site/94e48266226d4f17806c3e0b373167bf </h4>
     
 </br>
   
-<h3>💻 TECH STACK 💻</h3>
+<h3>TECH STACK</h3>
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" style="width:auto; height:20px;" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" style="width:auto; height:20px;"/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" style="width:auto; height:20px;"/>
